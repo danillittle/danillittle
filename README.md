@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **danilminh@gmail.com**
 
-- 📄 Know about my experiences [react, javascript, html, scss, Docker and other things](react, javascript, html, scss, Docker and other things)
+- 📄 Know about my experiences **react, javascript, html, scss, Docker** and other things
 
 - ⚡ Fun fact **javascript 💩 but I 💗 it**
 
