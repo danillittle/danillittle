@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danil Little</h1>
 <h3 align="center">A frontend developer from Russia</h3>
 
-- 🌱 I’m currently learning **android development, kotlin**
-
 - 📫 How to reach me **danilminh@gmail.com**
 
-- 📄 Know about my experiences **react, javascript, html, scss, Docker** and other things
+- 📄 Know about my experiences **react, javascript, html, css, Docker** and other things
 
 - ⚡ Fun fact **javascript 💩 but I 💗 it**
 
